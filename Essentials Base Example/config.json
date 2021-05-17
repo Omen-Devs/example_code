@@ -1,0 +1,10 @@
+{
+    "prefix": "test!",
+    "token": "testing bot token here",
+    "invlink": "https://discord.com/api/oauth2/authorize?client_id=761253652282998834&permissions=8&scope=bot",
+    "supportlink": "https://discord.gg/ZzCEJ4s",
+    "weblink": "http://livesite.webhop.net/omen",
+    "distopvotelink": "https://distop.xyz/bot/761253652282998834",
+	"topggvotelink": "https://top.gg/bot/761253652282998834/vote",
+	"AME_API": "ame_api key here"
+}
